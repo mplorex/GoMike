@@ -8105,9 +8105,15 @@ button.close {
         display: flex;
         justify-content: center;
         object-fit: contain;
+        width: 100px;
+        height: 40px;
     }
     .mg-md.text-center.tc-white {
         margin-top: -15px;
+    }
+    .col-xs-12.col-md-8.col-md-offset-2.text-center {
+        width: 250px;
+        height: 120px;
     }
     
 } 
@@ -8119,7 +8125,7 @@ button.close {
         display: flex;
         justify-content: center;
         object-fit: contain;
-        width: 200px;
+        width: 150px;
         height: 31px;
     }
     .col-xs-12.col-md-8.col-md-offset-2.text-center {
