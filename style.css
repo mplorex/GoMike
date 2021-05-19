@@ -1017,7 +1017,18 @@ h4 {
         height: 320px;
     }
 }
-
+.bloc1-text {
+    text-align: center;
+    width: 100%;
+}
+.row-text {
+    text-align: center;
+    width: 100%;
+}
+.bloc4-text {
+    text-align: center;
+    width: 100%;
+}
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
