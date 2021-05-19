@@ -8088,52 +8088,9 @@ button.close {
         display: none !important
     }
 }
-@media screen and (max-width: 768px) {
-        .col-sm-12.text-center {
-            display: flex;
-            justify-content: center;
-            object-fit: contain;
-            width: 150px;
-            height: 74px;
-        }
-        .mg-md.text-center.tc-white {
-            margin-top: -3px;
-        }
-} 
-@media screen and (max-width: 414px) {
-    .col-sm-12.text-center {
-        display: flex;
-        justify-content: center;
-        object-fit: contain;
-        width: 100px;
-        height: 40px;
-    }
-    .mg-md.text-center.tc-white {
-        margin-top: -15px;
-    }
-    .col-xs-12.col-md-8.col-md-offset-2.text-center {
-        width: 250px;
-        height: 120px;
-    }
-    
-} 
+
 @media screen and (max-width: 320px) {
     .navbar-header {
         display: flex;
-    }
-    .col-sm-12.text-center {
-        display: flex;
-        justify-content: center;
-        object-fit: contain;
-        width: 150px;
-        height: 31px;
-    }
-    .col-xs-12.col-md-8.col-md-offset-2.text-center {
-        width: 200px;
-        height: 92px;
-    }
-    .mg-md.text-center.tc-white {
-        margin-top: -25px;
-        width: 310px;
     }
 } 
